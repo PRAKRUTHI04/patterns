@@ -1,4 +1,4 @@
-public class numbers {
+public class floyds_traingle {
     public static void main(String[] args){
         int n=5;
         int a=1;
